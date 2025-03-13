@@ -1,4 +1,4 @@
 Nama Anggota Kelompok :
-Miftahul Ulum
-Andri Darmawan
-Mukhammad Fakhrudin
+1. Miftahul Ulum
+2. Andri Darmawan
+3. Mukhammad Fakhrudin
